@@ -1,2 +1,2 @@
-# OscillatingPendulum
-Simple oscilllating Pendulum
+# Snake Game
+Simple snake game
